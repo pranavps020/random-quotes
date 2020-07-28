@@ -1,0 +1,58 @@
+.container {
+    margin-left: 20vw;
+    width: fit-content;
+    background-color: white;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 10px;
+    border-color: white;
+    width: 60vw;
+    height: 30vh;
+}
+
+.quote {
+    padding-top: 30px;
+    color: #2E1E0F;
+    ;
+}
+
+button {
+    margin-left: 45vw;
+    padding: 1rem;
+    font-size: larger;
+    border-radius: 5px;
+    width: 10vw;
+    height: fit-content;
+    border: none;
+    color: white;
+    margin-top: 10px;
+    background-color: rgb(128, 62, 0);
+}
+
+button:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+button:active {
+    background-color: rgb(128, 62, 0);
+    color: white;
+}
+
+#header {
+    padding-top: 10vh;
+    padding-bottom: 3vh;
+    text-align: center;
+    color: white;
+
+}
+
+#author {
+    padding-top: 5px;
+    font-size: 20px;
+    text-align: right;
+}
